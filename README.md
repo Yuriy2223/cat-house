@@ -1,1 +1,1 @@
-# cat-house
+Creating a home page using grids
